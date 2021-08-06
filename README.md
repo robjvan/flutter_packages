@@ -16,8 +16,6 @@
 
 ## Firebase
 
-<br>
-
 ### Firebase Auth
 
 A Flutter plugin to use the Firebase Authentication API.
@@ -99,8 +97,6 @@ View on [pub.dev](https://pub.dev/packages/flutter_google_places)
 ---
 
 ## Utilities
-
-<br>
 
 ### Intl
 
@@ -306,8 +302,6 @@ View on [pub.dev](https://pub.dev/packages/razorpay_flutter)
 
 ## State Management
 
-<br>
-
 ### Shared Preferences
 
 Wraps platform-specific persistent storage for simple data (NSUserDefaults on iOS and macOS, SharedPreferences on Android, etc.).
@@ -339,8 +333,6 @@ View on [pub.dev](https://pub.dev/packages/path_provider)
 ---
 
 ## UI/UX
-
-<br>
 
 ### Shine
 
@@ -499,8 +491,6 @@ View on [pub.dev](https://pub.dev/packages/awesome_notifications)
 ---
 
 ## Widgets
-
-<br>
 
 ### Image Picker
 
