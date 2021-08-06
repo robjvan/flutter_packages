@@ -229,6 +229,10 @@ An assets picker which based on the WeChat's UI, using photo_manager for asset i
 ### [Flutter AdvancedNetwork Image Provider](https://pub.dev/packages/flutter_advanced_networkimage)
 
 An advanced image provider provides caching and retrying for flutter app. Now with zoomable widget and transition to image widget.
+
+### [Image Cropper](https://pub.dev/packages/image_cropper)
+
+A Flutter plugin for Android and iOS supports cropping images.
 <br><br>
 
 ## Utilties
