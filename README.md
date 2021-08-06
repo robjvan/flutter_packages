@@ -2,8 +2,6 @@
 
 ## Index
 
-<br>
-
 ### [Firebase](#Firebase)
 
 ### [State Management](#State-Management)
