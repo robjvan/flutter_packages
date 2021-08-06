@@ -1,22 +1,26 @@
 # Favorite Flutter Packages
 
-# Index
+## Index
 
-[Firebase](#Firebase)
+<br>
 
-[State Management](#State-Management)
+### [Firebase](#Firebase)
 
-[Widget](#Widgets)
+### [State Management](#State-Management)
 
-[Utilities](#Utilities)
+### [Widgets](#Widgets)
 
-[UI/UX](#UI/UX)
+### [Utilities](#Utilities)
 
-<!-- [Cloud Functions](#**Cloud Function/Firebase**) -->
+### [UI/UX](#UI/UX)
 
-# Firebase
+---
 
-## Firebase Auth
+## Firebase
+
+<br>
+
+### Firebase Auth
 
 A Flutter plugin to use the Firebase Authentication API.
 
@@ -26,7 +30,7 @@ View on [pub.dev](https://pub.dev/packages/firebase_auth)
 
 ---
 
-## Google SignIn
+### Google SignIn
 
 A Flutter plugin for Google Sign In.
 
@@ -36,7 +40,7 @@ View on [pub.dev](https://pub.dev/packages/google_sign_in)
 
 ---
 
-## Firebase Storage
+### Firebase Storage
 
 A Flutter plugin to use the Firebase Cloud Storage API.
 
@@ -46,7 +50,7 @@ View on [pub.dev](https://pub.dev/packages/firebase_storage)
 
 ---
 
-## Firebase Messaging
+### Firebase Messaging
 
 A Flutter plugin to use the Firebase Cloud Messaging API.
 
@@ -56,7 +60,7 @@ View on [pub.dev](https://pub.dev/packages/firebase_messaging)
 
 ---
 
-## Firebase Image Provider
+### Firebase Image Provider
 
 A cached Flutter ImageProvider for Firebase Cloud Storage image objects.
 
@@ -66,7 +70,7 @@ View on [pub.dev](https://pub.dev/packages/firebase_image)
 
 ---
 
-## Flutter Facebook Auth
+### Flutter Facebook Auth
 
 The easiest way to add facebook login to your flutter app, get user information, profile picture and more. Web support included.
 
@@ -76,7 +80,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_facebook_auth)
 
 ---
 
-## Google Place
+### Google Place
 
 A Flutter plugin for iOS and Android and Web that provides a Google Place API.
 
@@ -86,7 +90,7 @@ View on [pub.dev](https://pub.dev/packages/google_place)
 
 ---
 
-## Flutter Google Places
+### Flutter Google Places
 
 Google places autocomplete widgets for flutter.
 
@@ -96,9 +100,11 @@ View on [pub.dev](https://pub.dev/packages/flutter_google_places)
 
 ---
 
-# Utilities
+## Utilities
 
-## Intl
+<br>
+
+### Intl
 
 Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
 
@@ -108,7 +114,7 @@ View on [pub.dev](https://pub.dev/packages/intl)
 
 ---
 
-## Recase
+### Recase
 
 Changes the case of the input text to the desire case convention.
 
@@ -118,7 +124,7 @@ View on [pub.dev](https://pub.dev/packages/recase)
 
 ---
 
-## HTTP
+### HTTP
 
 A composable, Future-based library for making HTTP requests.
 
@@ -128,7 +134,7 @@ View on [pub.dev](https://pub.dev/packages/http)
 
 ---
 
-## Cached Network Image
+### Cached Network Image
 
 A flutter library to show images from the internet and keep them in the cache directory.
 
@@ -140,7 +146,7 @@ View on [pub.dev](https://pub.dev/packages/cached_network_image)
 
 ---
 
-## Pull To Refresh
+### Pull To Refresh
 
 A widget provided to the flutter scroll component drop-down refresh and pull up load.support android and ios.
 
@@ -150,7 +156,7 @@ View on [pub.dev](https://pub.dev/packages/pull_to_refresh)
 
 ---
 
-## Flutter Sound
+### Flutter Sound
 
 Flutter Sound is a Flutter package allowing you to play and record audio for Android, iOS, web.
 
@@ -160,7 +166,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_sound)
 
 ---
 
-## WakeLock
+### WakeLock
 
 Plugin that allows you to keep the device screen awake, i.e. prevent the screen from sleeping.
 
@@ -170,7 +176,7 @@ View on [pub.dev](https://pub.dev/packages/wakelock)
 
 ---
 
-## Animations
+### Animations
 
 This package contains pre-canned animations for commonly-desired effects.
 
@@ -180,7 +186,7 @@ View on [pub.dev](https://pub.dev/packages/animations)
 
 ---
 
-## Google Fonts
+### Google Fonts
 
 The google_fonts package for Flutter allows you to easily use any of the 977 fonts (and their variants) from fonts.google.com in your Flutter app.
 
@@ -190,7 +196,7 @@ View on [pub.dev](https://pub.dev/packages/google_fonts)
 
 ---
 
-## Flutter SVG
+### Flutter SVG
 
 Draw SVG (and some Android VectorDrawable (XML)) files on a Flutter Widget.
 
@@ -200,7 +206,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_svg)
 
 ---
 
-## URL Launcher
+### URL Launcher
 
 A Flutter plugin for launching a URL. Supports iOS, Android, web, Windows, macOS, and Linux.
 
@@ -210,7 +216,7 @@ View on [pub.dev](https://pub.dev/packages/url_launcher)
 
 ---
 
-## Geolocator
+### Geolocator
 
 A Flutter geolocation plugin which provides easy access to platform specific location services.
 
@@ -220,7 +226,7 @@ View on [pub.dev](https://pub.dev/packages/geolocator)
 
 ---
 
-## QR.Flutter
+### QR.Flutter
 
 QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.
 
@@ -230,7 +236,7 @@ View on [pub.dev](https://pub.dev/packages/qr_flutter)
 
 ---
 
-## Connectivity Plus
+### Connectivity Plus
 
 This plugin allows Flutter apps to discover network connectivity and configure themselves accordingly. It can distinguish between cellular vs WiFi connection.
 
@@ -240,7 +246,7 @@ View on [pub.dev](https://pub.dev/packages/connectivity_plus)
 
 ---
 
-## Package Info Plus
+### Package Info Plus
 
 This Flutter plugin provides an API for querying information about an application package.
 
@@ -250,7 +256,7 @@ View on [pub.dev](https://pub.dev/packages/package_info_plus)
 
 ---
 
-## Device Info Plus
+### Device Info Plus
 
 Get current device information from within the Flutter application.
 
@@ -260,7 +266,7 @@ View on [pub.dev](https://pub.dev/packages/device_info_plus)
 
 ---
 
-## Printing
+### Printing
 
 A plugin that allows Flutter apps to generate and print documents to android or ios compatible printers
 
@@ -270,7 +276,7 @@ View on [pub.dev](https://pub.dev/packages/printing)
 
 ---
 
-## Screen
+### Screen
 
 A Flutter plugin to manage the device's screen on Android and iOS.
 
@@ -280,7 +286,7 @@ View on [pub.dev](https://pub.dev/packages/screen)
 
 ---
 
-## Flutter NFC Reader
+### Flutter NFC Reader
 
 A new flutter plugin to help developers looking to use internal hardware inside iOS or Android devices for reading and writing NFC tags.
 
@@ -290,7 +296,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_nfc_reader)
 
 ---
 
-## Razorpay Flutter
+### Razorpay Flutter
 
 Flutter plugin for Razorpay SDK.
 
@@ -300,9 +306,11 @@ View on [pub.dev](https://pub.dev/packages/razorpay_flutter)
 
 ---
 
-# State-Management
+## State-Management
 
-## Shared Preferences
+<br>
+
+### Shared Preferences
 
 Wraps platform-specific persistent storage for simple data (NSUserDefaults on iOS and macOS, SharedPreferences on Android, etc.).
 
@@ -312,7 +320,7 @@ View on [pub.dev](https://pub.dev/packages/shared_preferences)
 
 ---
 
-## Provider
+### Provider
 
 A wrapper around InheritedWidget to make them easier to use and more reusable.
 
@@ -322,7 +330,7 @@ View on [pub.dev](https://pub.dev/packages/provider)
 
 ---
 
-## Path Provider
+### Path Provider
 
 A Flutter plugin for finding commonly used locations on the filesystem.
 
@@ -332,9 +340,11 @@ View on [pub.dev](https://pub.dev/packages/path_provider)
 
 ---
 
-# UI/UX
+## UI/UX
 
-## Shine
+<br>
+
+### Shine
 
 Flutter widget inspired by Shine.js
 
@@ -346,7 +356,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_shine)
 
 ---
 
-## Shimmer
+### Shimmer
 
 A package provides an easy way to add shimmer effect in Flutter project
 
@@ -358,7 +368,7 @@ View on [pub.dev](https://pub.dev/packages/shimmer)
 
 ---
 
-## Blur
+### Blur
 
 Blur is a wrapper widget that blur it's child.
 
@@ -370,7 +380,7 @@ View on [pub.dev](https://pub.dev/packages/blur)
 
 ---
 
-## Glassmorphic Container
+### Glassmorphic Container
 
 A Flutter package for creating Glassmorphic UI designs in an easy and simple manner!
 
@@ -382,7 +392,7 @@ View on [pub.dev](https://pub.dev/packages/glassmorphism)
 
 ---
 
-## Glassmorphism UI
+### Glassmorphism UI
 
 Create glassmorphic design using GlassContainer having frosted glass effect.
 
@@ -394,7 +404,7 @@ View on [pub.dev](https://pub.dev/packages/glassmorphism_ui)
 
 ---
 
-## Fluent UI
+### Fluent UI
 
 Unofficial implementation of Fluent UI for Flutter.
 
@@ -406,7 +416,7 @@ View on [pub.dev](https://pub.dev/packages/fluent_ui)
 
 ---
 
-## Clay Containers
+### Clay Containers
 
 Easily create and customize beautiful, modern neumorphic containers for your Flutter project.
 
@@ -418,7 +428,7 @@ View on [pub.dev](https://pub.dev/packages/clay_containers)
 
 ---
 
-## Neumorphic
+### Neumorphic
 
 Neumorphic Ui kit for flutter
 
@@ -430,7 +440,7 @@ View on [pub.dev](https://pub.dev/packages/neumorphic)
 
 ---
 
-## Flutter Neumorphic
+### Flutter Neumorphic
 
 A complete, ready to use, Neumorphic ui kit for Flutter
 
@@ -442,7 +452,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_neumorphic_null_safety)
 
 ---
 
-## Flutter Acrylic
+### Flutter Acrylic
 
 Window blur & transparency effects for Flutter on Windows & Linux
 
@@ -454,7 +464,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_acrylic)
 
 ---
 
-## Dotted Border
+### Dotted Border
 
 A flutter package to easily added dotted borders around widgets.
 
@@ -466,7 +476,7 @@ View on [pub.dev](https://pub.dev/packages/dotted_border)
 
 ---
 
-## Liquid Swipe
+### Liquid Swipe
 
 Liquid swipe is the revealing clipper to bring off amazing liquid like swipe to stacked Container/Widgets and inspired by Cuberto's liquid swipe and IntroViews.
 
@@ -478,7 +488,7 @@ View on [pub.dev](https://pub.dev/packages/liquid_swipe)
 
 ---
 
-## Awesome Notifications
+### Awesome Notifications
 
 Awesome Notifications for Flutter.
 
@@ -490,9 +500,11 @@ View on [pub.dev](https://pub.dev/packages/awesome_notifications)
 
 ---
 
-# Widgets
+## Widgets
 
-## Image Picker
+<br>
+
+### Image Picker
 
 A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
 
@@ -504,7 +516,7 @@ View on [pub.dev](https://pub.dev/packages/image_picker)
 
 ---
 
-## FlutterToast
+### FlutterToast
 
 Toast Library for Flutter
 
@@ -516,7 +528,7 @@ View on [pub.dev](https://pub.dev/packages/fluttertoast)
 
 ---
 
-## Numberpicker
+### Numberpicker
 
 NumberPicker is a custom widget designed for choosing an integer or decimal number by scrolling spinners.
 
@@ -528,7 +540,7 @@ View on [pub.dev](https://pub.dev/packages/numberpicker)
 
 ---
 
-## Badges
+### Badges
 
 Badges for Flutter
 
@@ -540,7 +552,7 @@ View on [pub.dev](https://pub.dev/packages/badges)
 
 ---
 
-## Animated Text Kit
+### Animated Text Kit
 
 A flutter package which contains a collection of some cool and awesome text animations.
 
@@ -552,7 +564,7 @@ View on [pub.dev](https://pub.dev/packages/animated_text_kit)
 
 ---
 
-## Flutter Speed Dial
+### Flutter Speed Dial
 
 Flutter package to render a Material Design Speed Dial.
 
@@ -564,7 +576,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_speed_dial)
 
 ---
 
-## Photo View
+### Photo View
 
 A simple zoomable image/content widget for Flutter.
 
@@ -576,7 +588,7 @@ View on [pub.dev](https://pub.dev/packages/photo_view)
 
 ---
 
-## OctoImage
+### OctoImage
 
 An image library for showing placeholders, error widgets and transform your image.
 
@@ -588,7 +600,7 @@ View on [pub.dev](https://pub.dev/packages/octo_image)
 
 ---
 
-## Marquee
+### Marquee
 
 A Flutter widget that scrolls text infinitely.
 
@@ -600,7 +612,7 @@ View on [pub.dev](https://pub.dev/packages/marquee)
 
 ---
 
-## SyncFucion Flutter Charts
+### SyncFucion Flutter Charts
 
 Flutter Charts package is a data visualization library written natively in Dart for creating beautiful, animated and high-performance charts, which are used to craft high-quality mobile app user interfaces using Flutter.
 
@@ -612,7 +624,7 @@ View on [pub.dev](https://pub.dev/packages/syncfusion_flutter_charts)
 
 ---
 
-## SyncFusion Flutter DatePicker
+### SyncFusion Flutter DatePicker
 
 The Flutter Date Range Picker is a lightweight widget that allows users to easily select a single date, multiple dates, or a range of dates.
 
@@ -624,7 +636,7 @@ View on [pub.dev](https://pub.dev/packages/syncfusion_flutter_datepicker)
 
 ---
 
-## Flutter Rating Bar
+### Flutter Rating Bar
 
 A simple yet fully customizable rating bar for flutter which also include a rating bar indicator, supporting any fraction of rating.
 
@@ -636,7 +648,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_rating_bar)
 
 ---
 
-## Flutter Slidable
+### Flutter Slidable
 
 A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
 
@@ -648,7 +660,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_slidable)
 
 ---
 
-## Sliding Up Panel
+### Sliding Up Panel
 
 A draggable Flutter widget that makes implementing a SlidingUpPanel much easier!
 
@@ -660,7 +672,7 @@ View on [pub.dev](https://pub.dev/packages/sliding_up_panel)
 
 ---
 
-## Expandable
+### Expandable
 
 A Flutter widget that can be expanded or collapsed by the user.
 
@@ -672,7 +684,7 @@ View on [pub.dev](https://pub.dev/packages/expandable)
 
 ---
 
-## RFlutter Alert
+### RFlutter Alert
 
 RFlutter Alert is super customizable and easy-to-use alert/popup dialogs for Flutter.
 
@@ -684,7 +696,7 @@ View on [pub.dev](https://pub.dev/packages/rflutter_alert)
 
 ---
 
-## Auth Buttons
+### Auth Buttons
 
 Auth Buttons is a flutter widget library, include buttons for authenticating with the most popular social networks like: Google, Facebook, Apple and too other.
 
@@ -696,7 +708,7 @@ View on [pub.dev](https://pub.dev/packages/auth_buttons)
 
 ---
 
-## Dots Indicator
+### Dots Indicator
 
 Widget to display dots indicator to show a position (for a PageView for example).
 
@@ -708,7 +720,7 @@ View on [pub.dev](https://pub.dev/packages/dots_indicator)
 
 ---
 
-## Awesome Dialog
+### Awesome Dialog
 
 A new Flutter package project for simple and awesome dialogs
 
@@ -720,7 +732,7 @@ View on [pub.dev](https://pub.dev/packages/awesome_dialog)
 
 ---
 
-## Persistent Bottom Navigation Bar
+### Persistent Bottom Navigation Bar
 
 A persistent/static bottom navigation bar for Flutter.
 
@@ -732,7 +744,7 @@ View on [pub.dev](https://pub.dev/packages/persistent_bottom_nav_bar)
 
 ---
 
-## Sticky Headers
+### Sticky Headers
 
 Lets you place headers on scrollable content that will stick to the top of the container whilst the content is scrolled.
 
@@ -744,7 +756,7 @@ View on [pub.dev](https://pub.dev/packages/sticky_headers)
 
 ---
 
-## Flutter TypeAhead
+### Flutter TypeAhead
 
 A TypeAhead (autocomplete) widget for Flutter, where you can show suggestions to users as they type.
 
@@ -756,7 +768,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_typeahead)
 
 ---
 
-## Wave
+### Wave
 
 Widget for displaying waves with custom color, duration, floating and blur effects.
 
@@ -768,7 +780,7 @@ View on [pub.dev](https://pub.dev/packages/wave)
 
 ---
 
-## Flip Card
+### Flip Card
 
 A component that provides flip card animation. It could be used for hide and show details of a product.
 
@@ -780,7 +792,7 @@ View on [pub.dev](https://pub.dev/packages/flip_card)
 
 ---
 
-## Passcode Screen
+### Passcode Screen
 
 A Flutter package for iOS and Android for showing passcode input screen, similar to Native iOS.
 
@@ -792,7 +804,7 @@ View on [pub.dev](https://pub.dev/packages/passcode_screen)
 
 ---
 
-## Snaplist
+### Snaplist
 
 A small cozy library that allows you to make snappable list views.
 
@@ -804,7 +816,7 @@ View on [pub.dev](https://pub.dev/packages/snaplist)
 
 ---
 
-## Flutter Fluid Slider
+### Flutter Fluid Slider
 
 A fluid design slider that works just like the Slider material widget.
 
@@ -816,7 +828,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_fluid_slider)
 
 ---
 
-## Progress Dialog
+### Progress Dialog
 
 A light weight package to show progress dialog. As it is a stateful widget, you can change the text shown on the dialog dynamically.
 
@@ -828,7 +840,7 @@ View on [pub.dev](https://pub.dev/packages/progress_dialog)
 
 ---
 
-## Flutter Info Slider
+### Flutter Info Slider
 
 Flutter Intro Slider is a flutter plugin that helps you make a cool intro for your app.
 
@@ -840,7 +852,7 @@ View on [pub.dev](https://pub.dev/packages/intro_slider)
 
 ---
 
-## Carousel Slider
+### Carousel Slider
 
 A carousel slider widget.
 
@@ -852,7 +864,7 @@ View on [pub.dev](https://pub.dev/packages/carousel_slider)
 
 ---
 
-## Flutter Swiper
+### Flutter Swiper
 
 The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.
 
@@ -864,7 +876,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_swiper)
 
 ---
 
-## Flutter WeChat Assets Picker
+### Flutter WeChat Assets Picker
 
 An assets picker which based on the WeChat's UI, using photo_manager for asset implementation, extended_image for image preview, and provider to help control the state of the picker.
 
@@ -876,7 +888,7 @@ View on [pub.dev](https://pub.dev/packages/wechat_assets_picker)
 
 ---
 
-## Flutter AdvancedNetwork Image Provider
+### Flutter AdvancedNetwork Image Provider
 
 An advanced image provider provides caching and retrying for flutter app. Now with zoomable widget and transition to image widget.
 
@@ -888,7 +900,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_advanced_networkimage)
 
 ---
 
-## Image Cropper
+### Image Cropper
 
 A Flutter plugin for Android and iOS supports cropping images.
 
@@ -900,4 +912,4 @@ View on [pub.dev](https://pub.dev/packages/image_cropper)
 
 ---
 
-### *last updated Aug 6, 2021*
+#### *last updated Aug 6, 2021*
