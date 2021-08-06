@@ -2,19 +2,19 @@
 
 ## Index
 
-### [Firebase](#Firebase)
+### [Firebase](##Firebase)
 
-### [State Management](#State-Management)
+### [State Management](##State-Management)
 
-### [Widgets](#Widgets)
+### [Widgets](##Widgets)
 
-### [Utilities](#Utilities)
+### [Utilities](##Utilities)
 
-### [UI/UX](#UI/UX)
+### [UI/UX](##UI/UX)
 
 ---
 
-# Firebase
+## Firebase
 
 <br>
 
@@ -98,7 +98,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_google_places)
 
 ---
 
-# Utilities
+## Utilities
 
 <br>
 
@@ -304,7 +304,7 @@ View on [pub.dev](https://pub.dev/packages/razorpay_flutter)
 
 ---
 
-# State-Management
+## State Management
 
 <br>
 
@@ -338,7 +338,7 @@ View on [pub.dev](https://pub.dev/packages/path_provider)
 
 ---
 
-# UI/UX
+## UI/UX
 
 <br>
 
@@ -498,7 +498,7 @@ View on [pub.dev](https://pub.dev/packages/awesome_notifications)
 
 ---
 
-# Widgets
+## Widgets
 
 <br>
 
