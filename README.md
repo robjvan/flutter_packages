@@ -4,7 +4,13 @@
 
 [Firebase](#Firebase)
 
+[State Management](#State-Management)
+
+[Widget](#Widgets)
+
 [Utilities](#Utilities)
+
+[UI/UX](#UI/UX)
 
 <!-- [Cloud Functions](#**Cloud Function/Firebase**) -->
 
@@ -294,7 +300,7 @@ View on [pub.dev](https://pub.dev/packages/razorpay_flutter)
 
 ---
 
-# State Management
+# State-Management
 
 ## Shared Preferences
 
@@ -326,7 +332,7 @@ View on [pub.dev](https://pub.dev/packages/path_provider)
 
 ---
 
-# **UI/UX**
+# UI/UX
 
 ## Shine
 
@@ -484,7 +490,7 @@ View on [pub.dev](https://pub.dev/packages/awesome_notifications)
 
 ---
 
-# **Widgets**
+# Widgets
 
 ## Image Picker
 
