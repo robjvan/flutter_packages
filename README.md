@@ -4,9 +4,9 @@
 
 ## Firebase Auth
 
-`flutter pub add firebase_auth`
-
 A Flutter plugin to use the Firebase Authentication API.
+
+`flutter pub add firebase_auth`
 
 View on [pub.dev](https://pub.dev/packages/firebase_auth)
 
@@ -14,9 +14,9 @@ View on [pub.dev](https://pub.dev/packages/firebase_auth)
 
 ## Google SignIn
 
-`flutter pub add google_sign_in`
-
 A Flutter plugin for Google Sign In.
+
+`flutter pub add google_sign_in`
 
 View on [pub.dev](https://pub.dev/packages/google_sign_in)
 
@@ -24,9 +24,9 @@ View on [pub.dev](https://pub.dev/packages/google_sign_in)
 
 ## Firebase Storage
 
-`flutter pub add firebase_storage`
-
 A Flutter plugin to use the Firebase Cloud Storage API.
+
+`flutter pub add firebase_storage`
 
 View on [pub.dev](https://pub.dev/packages/firebase_storage)
 
@@ -34,9 +34,9 @@ View on [pub.dev](https://pub.dev/packages/firebase_storage)
 
 ## Firebase Messaging
 
-`flutter pub add firebase_messaging`
-
 A Flutter plugin to use the Firebase Cloud Messaging API.
+
+`flutter pub add firebase_messaging`
 
 View on [pub.dev](https://pub.dev/packages/firebase_messaging)
 
