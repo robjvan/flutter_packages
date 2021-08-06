@@ -2,15 +2,15 @@
 
 ## Index
 
-### [Firebase](##Firebase)
+### [Firebase](#firebase-1)
 
-### [State Management](##State-Management)
+### [State Management](#state-management-1)
 
-### [Widgets](##Widgets)
+### [Widgets](#widgets-1)
 
-### [Utilities](##Utilities)
+### [Utilities](#utilities-1)
 
-### [UI/UX](##UI/UX)
+### [UI/UX](#uiux-1)
 
 ---
 
