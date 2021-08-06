@@ -24,8 +24,6 @@ A Flutter plugin to use the Firebase Authentication API.
 
 View on [pub.dev](https://pub.dev/packages/firebase_auth)
 
----
-
 ### Google SignIn
 
 A Flutter plugin for Google Sign In.
@@ -33,8 +31,6 @@ A Flutter plugin for Google Sign In.
 `flutter pub add google_sign_in`
 
 View on [pub.dev](https://pub.dev/packages/google_sign_in)
-
----
 
 ### Firebase Storage
 
@@ -44,8 +40,6 @@ A Flutter plugin to use the Firebase Cloud Storage API.
 
 View on [pub.dev](https://pub.dev/packages/firebase_storage)
 
----
-
 ### Firebase Messaging
 
 A Flutter plugin to use the Firebase Cloud Messaging API.
@@ -53,8 +47,6 @@ A Flutter plugin to use the Firebase Cloud Messaging API.
 `flutter pub add firebase_messaging`
 
 View on [pub.dev](https://pub.dev/packages/firebase_messaging)
-
----
 
 ### Firebase Image Provider
 
@@ -64,8 +56,6 @@ A cached Flutter ImageProvider for Firebase Cloud Storage image objects.
 
 View on [pub.dev](https://pub.dev/packages/firebase_image)
 
----
-
 ### Flutter Facebook Auth
 
 The easiest way to add facebook login to your flutter app, get user information, profile picture and more. Web support included.
@@ -74,8 +64,6 @@ The easiest way to add facebook login to your flutter app, get user information,
 
 View on [pub.dev](https://pub.dev/packages/flutter_facebook_auth)
 
----
-
 ### Google Place
 
 A Flutter plugin for iOS and Android and Web that provides a Google Place API.
@@ -83,8 +71,6 @@ A Flutter plugin for iOS and Android and Web that provides a Google Place API.
 `flutter pub add google_place`
 
 View on [pub.dev](https://pub.dev/packages/google_place)
-
----
 
 ### Flutter Google Places
 
