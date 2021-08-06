@@ -82,7 +82,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_google_places)
 
 ---
 
-# **Utilties**
+# **Utilities**
 
 ## Intl
 
