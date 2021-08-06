@@ -1,6 +1,14 @@
 # Favorite Flutter Packages
 
-# **Cloud Function/Firebase**
+# Index
+
+[Firebase](#Firebase)
+
+[Utilities](#Utilities)
+
+<!-- [Cloud Functions](#**Cloud Function/Firebase**) -->
+
+# Firebase
 
 ## Firebase Auth
 
@@ -82,7 +90,7 @@ View on [pub.dev](https://pub.dev/packages/flutter_google_places)
 
 ---
 
-# **Utilities**
+# Utilities
 
 ## Intl
 
