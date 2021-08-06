@@ -4,13 +4,13 @@
 
 ### [Firebase](#firebase-1)
 
-### [State Management](#state-management-1)
-
-### [Widgets](#widgets-1)
-
 ### [Utilities](#utilities-1)
 
+### [State Management](#state-management-1)
+
 ### [UI/UX](#uiux-1)
+
+### [Widgets](#widgets-1)
 
 ---
 
